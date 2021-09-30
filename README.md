@@ -1,2 +1,2 @@
-# Dice
+# Dice roll
 developed in java
